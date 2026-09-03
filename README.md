@@ -30,3 +30,4 @@ Formada em **Desenvolvimento de Sistemas** e estudante de **Cibersegurança** na
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-santos-739b94231/)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:carlasantoss039@gmail.com)
+
